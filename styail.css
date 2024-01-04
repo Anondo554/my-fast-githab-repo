@@ -1,0 +1,13 @@
+h2{
+    background: -moz-linear-gradient;
+    background-color: brown;
+    
+}
+.name{
+    font-size: larger;
+    color: blue;
+    background-color: brown;
+}
+#lorem{
+    background: -moz-repeating-linear-gradient();
+}
